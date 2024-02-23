@@ -1,0 +1,46 @@
+@font-face{
+    src:url(fonts/OneDirection.ttf)format("truetype");
+    font-family: 'Courier New', Courier, monospace;
+}
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color:antiquewhite;
+}
+.paragraph2{
+    text-align: center;
+    font-size:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aquamarine;
+}
+.menu-bar
+{
+    text-align: center;
+    background-color: black;
+}
+.menu-bar ul
+{
+    display:inline-flex;
+    color:azure;
+}
+.menu-bar ul li
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width:120px;
+    margin:15px;
+    padding:15px;
+}
+
+.menu-bar ul li:hover 
+{
+    background: floralwhite;
+    color:black;
+    border-radius: 3px;
+}
+.paragraph2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    color:white;
+}
